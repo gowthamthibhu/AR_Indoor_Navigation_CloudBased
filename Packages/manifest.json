@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "com.google.ar.core.arfoundation.extensions": "file:C:/Users/gowth/Downloads/arcore-unity-extensions-main",
     "com.unity.collab-proxy": "2.7.1",
     "com.unity.feature.development": "1.0.1",
     "com.unity.textmeshpro": "3.0.7",
